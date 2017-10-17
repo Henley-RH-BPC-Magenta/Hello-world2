@@ -4,9 +4,9 @@ print "Hello World!<br>";
 print "I'm about to learn PHP!";?>
 
 
-<!doctype html>
+<!doctype PHP>
 
-<html>
+<PHP>
 <body>
 
 <?PHP
@@ -21,4 +21,4 @@ print "<h2>" .txt2 "</h2>";
 ?>
 
 </body>
-</html>
+</PHP>
