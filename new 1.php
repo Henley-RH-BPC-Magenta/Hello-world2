@@ -4,7 +4,7 @@ print "Hello World!<br>";
 print "I'm about to learn PHP!";?>
 
 
-<!doctype PHP>
+<!doctype html>
 
 <PHP>
 <body>
