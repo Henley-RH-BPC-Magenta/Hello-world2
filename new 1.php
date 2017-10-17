@@ -6,7 +6,7 @@ print "I'm about to learn PHP!";?>
 
 <!doctype html>
 
-<PHP>
+<html>
 <body>
 
 <?PHP
@@ -17,8 +17,8 @@ $y = 4;
 
 
 print "<h2>" .$txt1 "</h2>";
-print "<h2>" .txt2 "</h2>";
+print "<h2>" .$txt2 "</h2>";
 ?>
 
 </body>
-</PHP>
+</html>
